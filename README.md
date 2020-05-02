@@ -4,6 +4,7 @@ Curation of NLP related articles and code.
 
 ## Directories
 - pytorch - pytorch code examples.
+    - Disaster tweet dataset analysis. Tools: torchtext, pytorch-lightning
 
 ## Articles:
 ### Chat bots
